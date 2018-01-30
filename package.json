@@ -1,0 +1,32 @@
+{
+  "name": "object-mapping",
+  "version": "1.0.0-0",
+  "description": "generic JSON schema-to-schema object mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "tonicExampleFilename": "example.js",
+  "keywords": [
+    "JSON",
+    "object",
+    "transformation",
+    "mapping"
+  ],
+  "author": "joemfb",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemfb/object-mapping.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joemfb/object-mapping/issues"
+  },
+  "homepage": "https://github.com/joemfb/object-mapping#readme"
+}
